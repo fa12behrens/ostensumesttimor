@@ -1,0 +1,12 @@
+/.gradle
+/local.properties
+/.idea
+/gradle
+/build.gradle
+/gradle.properties
+/gradlew
+/gradlew.bat
+/settings.gradle
+/WPProjekt.iml
+.DS_Store
+/build
